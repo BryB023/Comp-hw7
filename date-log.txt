@@ -1,0 +1,3 @@
+hello 
+this is for my first github test homework assignment
+goodbye now
